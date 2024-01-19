@@ -14,4 +14,4 @@ I'm fueled by curiosity and a zest for making tech magic happen. Currently explo
 
 ## 🌐 Connect
 
-Connect with me on [LinkedIn]([your_linkedin](https://www.linkedin.com/in/maniksheoran/)). Happy coding! 🚀
+Connect with me on [LinkedIn]([(https://www.linkedin.com/in/maniksheoran/]). Happy coding! 🚀

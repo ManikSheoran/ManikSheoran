@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hey there! I'm **Manik**, a second-year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
+Hey there! I'm **Manik**, a pre-final year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
 
 ## 💡 Passion
 
@@ -9,8 +9,8 @@ I'm fueled by curiosity and a zest for making tech magic happen. Currently explo
 ## 🔧 Skills
 
 - **Languages:** Python, C
-- **Web Tech:** HTML, CSS, JS
-- **Frameworks:** Flask
+- **Web Tech:** HTML, CSS
+- **Frameworks:** Flask (Still learning)
 
 ## 🌐 Connect
 

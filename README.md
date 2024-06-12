@@ -8,9 +8,11 @@ I'm fueled by curiosity and a zest for making tech magic happen. Currently explo
 
 ## 🔧 Skills
 
-- **Languages:** Python, C
-- **Web Tech:** HTML, CSS, JS
-- **Frameworks:** Flask 
+- **Languages:** Python, C, JavaScript
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Frameworks:** Flask, Express
+- **Databases:** MongoDB
+- **Tools:** Beautiful Soup, Selenium
 
 ## 🌐 Connect
 

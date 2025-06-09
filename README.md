@@ -41,7 +41,7 @@
 
 ## 🤝 Let's Connect
 
--  [![maniksheoran](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/maniksheoran)
+-  [![maniksheoran](https://img.shields.io/badge/-maniksheoran-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/maniksheoran)
 - 💼 [LinkedIn](https://www.linkedin.com/in/maniksheoran)  
 - 🌐 [Portfolio](https://maniks.tech)
 

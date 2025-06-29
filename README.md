@@ -73,21 +73,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/maniksheoran">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maniksheoran&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/maniksheoran">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=maniksheoran&theme=radical" />
-</a>
-
-</div>
-
----
-
 ## 📫 Where to Find Me
 
 - 🖥️ [maniks.tech](https://maniks.tech)  

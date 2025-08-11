@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Manik Sheoran
 
-🎓 3rd Year B.Tech (Information Technology)  
+🎓 4th Year B.Tech (Information Technology)  
 🏫 Indian Institute of Engineering Science and Technology, Shibpur  
 💡 Turning ideas into working systems  
 📍 Currently exploring: **AI APIs · Database Systems · Fullstack Engineering · System Design**

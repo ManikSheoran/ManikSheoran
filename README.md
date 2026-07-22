@@ -100,7 +100,7 @@ AI-powered journaling application with mood tracking, authentication, and intell
 
 ## 🌐 Connect with Me
 
-🌍 Portfolio: **https://maniks.is-a.dev**
+🌍 Portfolio: **https://manik.is-a.dev**
 
 💼 LinkedIn: **https://linkedin.com/in/maniksheoran**
 
